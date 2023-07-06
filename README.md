@@ -17,6 +17,6 @@ Atividade avaliativa de Introdução a Mineração de Dados da Universidade Fede
 ## Metodos
 Foi utilizado o python para Previr e classficar dos modelos
 * Machine Learning
- * Sklearn 
+  * Sklearn 
 * Redes Neurais
- * Tensorflow 
+  * Tensorflow 
