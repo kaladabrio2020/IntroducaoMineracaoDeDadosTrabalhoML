@@ -8,9 +8,9 @@ Atividade avaliativa de Introdução a Mineração de Dados da Universidade Fede
 * Credit card
   * Classificação  
 * Insurance
-  * Classificação  
+  * Previsão  
 * Titanic
-  * Previsão     
+  * Classificaçao , previsão     
     
     > Conjunto de dados disponibilizado Pelo [kaggles](http://www.kaggle.com)
 
