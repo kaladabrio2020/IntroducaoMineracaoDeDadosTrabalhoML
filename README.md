@@ -13,3 +13,10 @@ Atividade avaliativa de Introdução a Mineração de Dados da Universidade Fede
   * Previsão     
     
     > Conjunto de dados disponibilizado Pelo [kaggles](http://www.kaggle.com)
+
+## Metodos
+Foi utilizado o python para Previr e classficar dos modelos
+* Machine Learning
+ * Sklearn 
+* Redes Neurais
+ * Tensorflow 
