@@ -5,11 +5,11 @@ Atividade avaliativa de Introdução a Mineração de Dados da Universidade Fede
 
 ## Banco de dados utilizados
 
-* Credit card
+* [Credit card](/src/)
   * Classificação  
-* Insurance
+* [Insurance](/src/)
   * Previsão  
-* Titanic
+* [Titanic](/src/)
   * Classificaçao , previsão     
     
     > Conjunto de dados disponibilizado Pelo [kaggles](http://www.kaggle.com)
