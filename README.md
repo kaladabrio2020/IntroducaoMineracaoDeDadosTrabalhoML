@@ -1,18 +1,16 @@
-# Machine-Learning
-
-Atividade avaliativa de Introdução a Mineração de Dados da Universidade Federal do Ceará (U.F.C).
- * Matemática Industrial
+# Introdução a Mineração de Dados
+Atividade avaliativa de Introdução a Mineração de Dados da Universidade Federal do Ceará (U.F.C), relacionada a Aprendizado de máquina na predição de atributos alvos, tanto Regressão quanto Classificação.
 
 ## Banco de dados utilizados
-
-* [Credit card](/src/)
-  * Classificação  
+Conjunto de dados disponibilizado Pelo [kaggles](http://www.kaggle.com) 
 * [Insurance](/src/)
   * Previsão  
 * [Titanic](/src/)
   * Classificaçao , previsão     
-    
-    > Conjunto de dados disponibilizado Pelo [kaggles](http://www.kaggle.com)
+* [Credit card](/src/)
+  * Classificação     
+
+
 
 ## Tecnologias e ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
