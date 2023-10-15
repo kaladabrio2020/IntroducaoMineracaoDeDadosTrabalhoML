@@ -25,5 +25,5 @@ Atividade avaliativa de Introdução a Mineração de Dados da Universidade Fede
 &nbsp;
 
 > **Note**<br>
-[pip install](libs/requeriments.txt)
+[libs baixadas no venv](libs/requeriments.txt)
 
